@@ -1351,6 +1351,10 @@ html {
     background: #ff521dc7;
     box-shadow: 0px 0px 20px rgb(255, 82, 29);
 }
+.activ-moto{
+    background: #ff521dc7;
+    box-shadow: 0px 0px 20px rgb(255, 82, 29);
+}
 
 .moto-menu .moto img {
     width: 80%;
